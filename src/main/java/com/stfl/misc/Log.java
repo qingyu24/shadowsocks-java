@@ -89,7 +89,7 @@ public class Log {
         handler.setLevel(logLevel);
         rootLogger.addHandler(handler);
     }
-
+///ssss
     private static Logger getRootLogger() {
         return Logger.getLogger("com.stfl");
     }
